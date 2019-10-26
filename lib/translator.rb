@@ -1,6 +1,5 @@
 # require modules here
-require './spec/spec_helper.rb'
-require 'emoticons.yml'
+require './emoticons.yml'
 
 def load_library
   # code goes here
